@@ -25,5 +25,4 @@ QuizApp is a ReactJS-based web application that allows users to take assessments
 ## 📋 How to Run the Project
 
 ### 1. Clone the Repository
-Clone the repository to your local machine by running the following command in your terminal:
 git clone https://github.com/Shivampn/quizapp.git
